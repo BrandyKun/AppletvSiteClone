@@ -1,4 +1,3 @@
-import Container from "./components/container";
 import { Header } from "./components/header";
 import { Hero } from "./components/section/hero";
 import { Usps } from "./components/section/usps";
